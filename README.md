@@ -1,7 +1,7 @@
 ## Table of Contents
 
 * [About the Project](#about-the-project)
-* [Game Screen](#game-screen)
+* [App Screens](#app-screens)
 * [Built With](#built-with)
 * [Contact](#contact)
 
